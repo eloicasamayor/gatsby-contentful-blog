@@ -1,8 +1,12 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9e0b672-fb78-4e57-957b-4da48b36fc66/deploy-status)](https://app.netlify.com/sites/eloi-gatsby-blog/deploys)
+
 <h1>Gatsby site. </h1>
 <p>Developed following this <a href="https://www.youtube.com/watch?v=kzWIUX3CpuI">
     this tutorial.
   </a></p>
-<p>
+<p>Link to the <a href="https://eloi-gatsby-blog.netlify.app/">
+    deployed site.
+  </a></p>
 <p>⭐️ Course Contents ⭐️</p>
 <ol>
 <li>Creating a Gatsby Site</li>
