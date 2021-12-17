@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cbda99ee-8f44-495e-a917-f6cd92f6fa9c/deploy-status)](https://app.netlify.com/sites/eloi-gatsby-cms-blog/deploys)
+
 <h1>Gatsby site. </h1>
 <p>Developed following the second part of this <a href="https://www.youtube.com/watch?v=kzWIUX3CpuI">
     this tutorial
