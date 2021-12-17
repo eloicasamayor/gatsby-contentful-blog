@@ -11,7 +11,7 @@ require("dotenv").config({
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Full-Stack Bootcamp!!!`,
+    title: `Gatsby CMS-powered blog`,
     author: `Eloi Casamayor Esteve`,
   },
   plugins: [
@@ -29,22 +29,6 @@ module.exports = {
       options: {
         name: "src",
         path: `${__dirname}/src`,
-      },
-    },
-    "gatsby-plugin-sharp",
-    {
-      resolve: "gatsby-transformer-remark",
-      options: {
-        plugins: [
-          "gatsby-remark-relative-images",
-          {
-            resolve: "gatsby-remark-images",
-            options: {
-              maxWith: 750,
-              linkImagesToOriginal: false,
-            },
-          },
-        ],
       },
     },
   ],
