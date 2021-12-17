@@ -1,10 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b9e0b672-fb78-4e57-957b-4da48b36fc66/deploy-status)](https://app.netlify.com/sites/eloi-gatsby-blog/deploys)
-
 <h1>Gatsby site. </h1>
-<p>Developed following this <a href="https://www.youtube.com/watch?v=kzWIUX3CpuI">
-    this tutorial.
-  </a></p>
-<p>Link to the <a href="https://eloi-gatsby-blog.netlify.app/">
+<p>Developed following the second part of this <a href="https://www.youtube.com/watch?v=kzWIUX3CpuI">
+    this tutorial
+  </a>, where its explained how to link a gatsby site to a CMS as a backend. </p>
+<p>Link to the <a href="https://eloi-gatsby-cms-blog.netlify.app/">
     deployed site.
   </a></p>
 <p>⭐️ Course Contents ⭐️</p>
@@ -18,10 +16,8 @@
 <li>Styling Gatsby with CSS Modules</li>
 <li>Gatsby Data with GraphQL</li>
 <li>GraphQL Playground</li>
-<li>Sourcing Content from the File System</li>
-<li>Working with Markdown Posts</li>
-<li>Generating Slugs for Posts</li>
 <li>Dynamically Generating Pages</li>
-<li>Rendering Post Data in Blog Template</li>
-<li>Adding Images to Posts</li>
+<li>Getting Started with Contentful</li>
+<li>Rendering Contentful Posts</li>
+<li>Dynamic Pages from Contentful</li>
 </ol>
